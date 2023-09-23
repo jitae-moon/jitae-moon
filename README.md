@@ -1,4 +1,4 @@
-### Hi there 👋
+### I'm jitae, junior backend developer 👋
 
 <!--
 **jitae-moon/jitae-moon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
